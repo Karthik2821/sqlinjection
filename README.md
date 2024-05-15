@@ -256,4 +256,4 @@ Ex: (union select null,’Hello World!’,null,null,null into outfile ‘/tmp/he
 
 
 ## RESULT:
-The SQL Injection vulnerability is successfully exploited using the Multidae web application in Metasploitable2.The SQL Injection vulnerability is successfully exploited using the Multidae web application in Metasploitable2.
+The SQL Injection vulnerability is successfully exploited using the Multidae web application in Metasploitable2.
