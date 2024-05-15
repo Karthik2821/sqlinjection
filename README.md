@@ -256,4 +256,4 @@ Ex: (union select null,’Hello World!’,null,null,null into outfile ‘/tmp/he
 
 
 ## RESULT:
-The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
+The SQL Injection vulnerability is successfully exploited using the Multidae web application in Metasploitable2.The SQL Injection vulnerability is successfully exploited using the Multidae web application in Metasploitable2.
